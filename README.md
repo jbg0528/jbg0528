@@ -1,4 +1,4 @@
-
+<div align=center>
 ### Hi there 👋 My name is Byung Geun Jo
 
 <div>
