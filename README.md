@@ -1,5 +1,6 @@
 ### Hi there 👋 My name is Byung Geun Jo
 ----
+### ✨ Github
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbg0528&hide=stars)
 
@@ -14,7 +15,7 @@
 
 </div>
 
-## Contact
+## 📞 Contact
 <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=jbg0528@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=red">
 </a>
