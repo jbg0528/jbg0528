@@ -1,14 +1,11 @@
 ### Hi there 👋 My name is Byung Geun Jo
 <div align=center>
 
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbg0528&hide=stars)
 
-  <div align=center>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbg0528&layout=compact)](https://github.com/jbg0528/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbg0528&hide=stars)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbg0528&layout=compact)](https://github.com/jbg0528/github-readme-stats)
-
-  </div>
+</div>
   
   
 ### 🖥️ I'm a Frontend Developer
