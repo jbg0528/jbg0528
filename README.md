@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Byung Geun Jo
 ----
-### ✨ Github
+## ✨ Github
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbg0528&hide=stars)
 
@@ -21,7 +21,7 @@
 </a>
 
 
-## 📚 STACKS
+## 📚 Stack
 
 <div align=left>
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
