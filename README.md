@@ -1,7 +1,8 @@
 
 ### Hi there 👋 My name is Byung Geun Jo
 
-<div align=center>
+<div>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbg0528&hide=stars)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbg0528&layout=compact)](https://github.com/jbg0528/github-readme-stats)
@@ -9,18 +10,18 @@
 ### 🖥️ I'm a Frontend Developer
 ### 🇰🇷 I'm working on South Korea
 
-  </div>
-  
+
+</div>
+
 ## Contact
 <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=jbg0528@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=red">
 </a>
 
 
-
 ## 📚 STACKS
 
-<div align=left> 
+<div align=left>
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
   <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> 
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
