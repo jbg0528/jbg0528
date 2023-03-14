@@ -1,12 +1,16 @@
-<div align=center>
 ### Hi there 👋 My name is Byung Geun Jo
+<div align=center>
 
-<div>
+
+  <div align=center>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbg0528&hide=stars)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbg0528&layout=compact)](https://github.com/jbg0528/github-readme-stats)
 
+  </div>
+  
+  
 ### 🖥️ I'm a Frontend Developer
 ### 🇰🇷 I'm working on South Korea
 
@@ -37,21 +41,6 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
 </div>
-
-<!--
-**Jo-byung-geun/Jo-byung-geun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 <!--
