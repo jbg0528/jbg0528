@@ -1,10 +1,10 @@
 ### Hi there 👋 My name is Byung Geun Jo
+### 🖥️ I'm a Frontend Developer
+### 🇰🇷 I'm working on South Korea
 
 ## ✨ Github
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbg0528&hide=stars&show_icons=true&theme=vue)
-### 🖥️ I'm a Frontend Developer
-### 🇰🇷 I'm working on South Korea
 
 
 </div>
