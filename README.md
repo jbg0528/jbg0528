@@ -1,8 +1,8 @@
 ### Hi there 👋 My name is Byung Geun Jo
-----
+
 ## ✨ Github
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbg0528&hide=stars)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbg0528&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbg0528&layout=compact)](https://github.com/jbg0528/github-readme-stats)
 
