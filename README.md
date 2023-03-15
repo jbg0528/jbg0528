@@ -6,7 +6,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbg0528&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
-  
 ### 🖥️ I'm a Frontend Developer
 ### 🇰🇷 I'm working on South Korea
 
