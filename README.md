@@ -1,3 +1,4 @@
+<div align=center>
 ### Hi there 👋 My name is Byung Geun Jo
 ### 🖥️ I'm a Frontend Developer
 ### 🇰🇷 I'm working on South Korea
@@ -50,3 +51,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</div>
