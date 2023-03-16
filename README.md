@@ -8,7 +8,7 @@
   
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbg0528&hide=stars&show_icons=true&theme=vue)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbg0528&layout=compact)](https://github.com/jbg0528/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbg0528&layout=compact&theme=vue)](https://github.com/jbg0528/github-readme-stats)
 
   
 
