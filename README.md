@@ -1,6 +1,6 @@
 
 ### Hi there 👋 My name is Byung Geun Jo
-### 🖥️ I'm a Developer
+### 🖥️ I'm a Frontend Developer
 ### 🇰🇷 I'm working on South Korea
 
 ## ✨ Github
