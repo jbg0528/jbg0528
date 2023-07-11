@@ -1,7 +1,7 @@
 
 ### Hi there 👋 My name is Byung Geun Jo
 ### 🖥️ I'm a Frontend Developer
-### 🇰🇷 I'm working on South Korea
+### 🇰🇷 Now, I'm working on South Korea as a FullStack Developer
 
 ## ✨ Github
 
